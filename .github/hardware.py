@@ -172,7 +172,7 @@ field_groups = {
         [["five_way1", "five_way2", "five_way3"], [], []],
         [["misc_fan_pwm", "misc_fan_speeds"], [], []],
         [["pwm_out_only"], ["pwm_outputs"], []],
-        [["vbat", "vbat_offset", "vbat_scale"], [], []],
+        [["vbat", "vbat_cal_min", "vbat_cal_max", "vbat_offset", "vbat_scale"], [], []],
         [["vsrc1", "vsrc1_cal_min", "vsrc1_cal_max", "vsrc1_offset", "vsrc1_scale"], [], []],
         [["vsrc2", "vsrc2_cal_min", "vsrc2_cal_max", "vsrc2_offset", "vsrc2_scale"], [], []],
         [["vsrc3", "vsrc3_cal_min", "vsrc3_cal_max", "vsrc3_offset", "vsrc3_scale"], [], []],
